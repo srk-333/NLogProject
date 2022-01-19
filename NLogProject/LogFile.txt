@@ -1,0 +1,16 @@
+2022-01-19 13:10:48.0190|DEBUG|NLogProject.NLog| Debug is successful : Sum() 
+2022-01-19 13:10:48.0190|INFO|NLogProject.NLog| Sum Method passed ! Result is : 3
+2022-01-19 13:14:35.7580|DEBUG|NLogProject.NLog| Debug is unsuccessful : Sum() 
+2022-01-19 13:14:35.7580|ERROR|NLogProject.NLog| Expecting null values 
+2022-01-19 13:14:35.7580|WARN|NLogProject.NLog| FirstNumber and Secondnumber should not be zero 
+2022-01-19 13:14:35.7580|DEBUG|NLogProject.NLog| Debug is successful : Sum() 
+2022-01-19 13:14:35.7580|INFO|NLogProject.NLog| Sum Method passed ! Result is : 8
+2022-01-19 13:16:44.4953|DEBUG|NLogProject.NLog| Debug is unsuccessful : Sum() 
+2022-01-19 13:16:44.5053|ERROR|NLogProject.NLog| Number cann't be zero 
+2022-01-19 13:16:44.5053|WARN|NLogProject.NLog| FirstNumber and Secondnumber should not be zero 
+2022-01-19 13:16:44.5053|DEBUG|NLogProject.NLog| Debug is successful : Sum() 
+2022-01-19 13:16:44.5053|INFO|NLogProject.NLog| Sum Method passed ! Result is : 23
+2022-01-19 13:17:35.5294|DEBUG|NLogProject.NLog| Debug is successful : Sum() 
+2022-01-19 13:17:35.5575|INFO|NLogProject.NLog| Sum Method passed ! Result is : 112
+2022-01-19 13:17:44.6955|DEBUG|NLogProject.NLog| Debug is successful : Sum() 
+2022-01-19 13:17:44.6955|INFO|NLogProject.NLog| Sum Method passed ! Result is : 132
